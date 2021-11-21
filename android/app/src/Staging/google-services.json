@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "293838133542",
+    "project_id": "inspectionenv-stg",
+    "storage_bucket": "inspectionenv-stg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293838133542:android:6fe278287b639ee6dfc9e7",
+        "android_client_info": {
+          "package_name": "com.inspectionenv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293838133542-1a9iek7liju62mbi6j6levacqj9a0hjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Iev8EZCoQLDKDuN15WBrMuSgyhWy220"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293838133542-1a9iek7liju62mbi6j6levacqj9a0hjd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "293838133542-ma70s8okhq90bul85un24nqmdic9d1te.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.InspectionEnv"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
