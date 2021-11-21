@@ -1,0 +1,2 @@
+# InspectionEnv
+dev,stg,prod毎にGoogleService用ファイルも含めて環境を分けて開発できるように設定したもの
